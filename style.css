@@ -1,0 +1,21 @@
+
+
+div{
+
+}
+span{
+	font-size: 20px;
+	color: red;
+}
+p{
+	font-size: 30px;
+	color: blue;
+}
+.yellow{
+	color: yellow;
+	border: 2px solid #005;
+}
+.biggreen{
+	font-size: 50px;
+	color: green;
+}
